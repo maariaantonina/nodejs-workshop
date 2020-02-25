@@ -1,0 +1,22 @@
+[
+  { "gender": "M", "firstName": "Tucker", "lastName": "Schneider", "age": 75 },
+  { "gender": "M", "firstName": "Kael", "lastName": "Snyder", "age": 23 },
+  { "gender": "F", "firstName": "Alayna", "lastName": "Hammond", "age": 51 },
+  { "gender": "F", "firstName": "Ayanna", "lastName": "Luna", "age": 64 },
+  { "gender": "M", "firstName": "Ezequiel", "lastName": "Luna", "age": 45 },
+  { "gender": "F", "firstName": "Alayna", "lastName": "Choi", "age": 24 },
+  { "gender": "F", "firstName": "Melanie", "lastName": "Tate", "age": 66 },
+  { "gender": "M", "firstName": "Jason", "lastName": "Schneider", "age": 41 },
+  { "gender": "M", "firstName": "Ezequiel", "lastName": "Snyder", "age": 67 },
+  { "gender": "M", "firstName": "Asher", "lastName": "Fisher", "age": 29 },
+  { "gender": "M", "firstName": "Carlos", "lastName": "Hammond", "age": 55 },
+  { "gender": "F", "firstName": "Jayleen", "lastName": "Davidson", "age": 28 },
+  { "gender": "M", "firstName": "Caden", "lastName": "Noble", "age": 61 },
+  { "gender": "M", "firstName": "Kael", "lastName": "Haas", "age": 45 },
+  { "gender": "M", "firstName": "Cale", "lastName": "Fisher", "age": 20 },
+  { "gender": "M", "firstName": "Tucker", "lastName": "Wagner", "age": 60 },
+  { "gender": "M", "firstName": "Jovani", "lastName": "Noble", "age": 75 },
+  { "gender": "F", "firstName": "Yazmin", "lastName": "Levine", "age": 33 },
+  { "gender": "F", "firstName": "Yazmin", "lastName": "Fisher", "age": 33 },
+  { "gender": "M", "firstName": "Rogelio", "lastName": "Dodson", "age": 62 }
+]
